@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace CSharpStarterPack.PuzzleInputs
 {
-    public static class PuzzleInputs
+    public static class PuzzleInput
     {
         public static string[] GetInputAsArray(int day) => File.ReadAllLines($"Inputs/Day{day}.txt");
 
