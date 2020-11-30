@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\src\PuzzleInputs\PuzzleInputs.csproj" />
+    <ProjectReference Include="..\src\Days\Days.csproj" />
   </ItemGroup>
 
 </Project>
