@@ -3,8 +3,8 @@ using System.Linq;
 
 namespace CSharpStarterPack.Days
 {
-    public static class Day3    
-    {   
+    public static class Day05
+    {
         public static int PuzzleA()
         {
             return 0;

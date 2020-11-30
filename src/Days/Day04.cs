@@ -3,15 +3,15 @@ using System.Linq;
 
 namespace CSharpStarterPack.Days
 {
-    public static class Day1
+    public static class Day04
     {
-        public static string PuzzleA(string inputText)
+        public static int PuzzleA()
         {
-            return inputText;
+            return 0;
         }
         public static int PuzzleB()
         {
-            return 2;
+            return 0;
         }
     }
 }

@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace CSharpStarterPack.Days
 {
-    public static class Day6
+    public static class Day02
     {
         public static int PuzzleA()
         {

@@ -16,7 +16,7 @@ namespace Tests
             string input = PuzzleInput.GetInputAsText(day);
 
             // Act
-            var actual = Day1.PuzzleA(input);
+            var actual = Day01.PuzzleA(input);
 
             // Assert
             Assert.AreEqual(expected, actual);
