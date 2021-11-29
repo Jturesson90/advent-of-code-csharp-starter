@@ -4,6 +4,7 @@ using CSharpStarterPack.Days;
 
 namespace Tests
 {
+    // Uncomment to enable testing for this file
     // [TestClass]
     public class Day03Tests
     {
@@ -11,7 +12,7 @@ namespace Tests
         [TestMethod]
         public void Puzzle_A()
         {
-            // Assign
+            // Arrenge
             string expected = "";
             string input = PuzzleInput.GetInputAsText(day);
 
@@ -26,7 +27,7 @@ namespace Tests
         [TestMethod]
         public void Puzzle_B()
         {
-            // Assign
+            // Arrenge
             // Act
             // Assert
             Assert.AreEqual(1, 1);
